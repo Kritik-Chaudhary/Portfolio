@@ -1,7 +1,3 @@
-# Portfolio Website
-
-Welcome to my personal portfolio!  
-Here you'll find a showcase of my projects, Explore my work, skills, and achievements all in one place.
 
 # Portfolio Website
 
